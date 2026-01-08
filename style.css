@@ -6,7 +6,7 @@
 body {
   margin: 0;
   padding: 16px;
-  background: #cbaFA5;
+  background: red;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -52,3 +52,4 @@ body {
 #volume-slider {
   width: 120px;
 }
+/* #cbaFA5 */
