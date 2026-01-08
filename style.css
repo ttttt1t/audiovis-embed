@@ -5,7 +5,7 @@
 
 body {
   margin: 0;
-  padding: 16px;
+  padding: 32px;
   background: red;
   display: flex;
   justify-content: center;
@@ -22,7 +22,7 @@ body {
   height: auto;
   display: block;
   background: #fff;
-  border-radius: 12px;
+ /* border-radius: 12px; */
 }
 
 .viz-controls {
