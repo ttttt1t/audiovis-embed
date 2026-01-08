@@ -22,8 +22,9 @@ body {
   height: auto;
   display: block;
   background: #fff;
- /* border-radius: 12px; */
 }
+
+ /* border-radius: 12px; */
 
 .viz-controls {
   position: absolute;
